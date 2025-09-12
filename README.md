@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+SQL;Apasionado+por+el+aprendizaje;Buscando+mi+primer+rol+profesional+🚀" />
 </p>
 
+<p align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=alexisrojas14&label=Visitas&color=blue&style=flat)
+</p>
+
 ---
 
 ## 🚀 Sobre mí
@@ -51,17 +55,19 @@
 </tr>
 </table>
 
-
 ---
 
 ## 📌 Proyectos Destacados
 
+- 🏋️‍♂️ **[Lexis Manage](https://github.com/alexisrojas14/FitNourishXis)** – Sistema de gestión de gimnasios (usuarios, membresías, pagos).
+- 🍳 **[Master Chef App](https://github.com/alexisrojas14/Master-Chef-Colombia-APP)** – Aplicación para gestión de recetas y retos culinarios.
 <p align="center">
   <a href="https://github.com/alexisrojas14/FitNourishXis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=lexis-manage&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=FitNourishXis&theme=radical" />
   </a>
+  
   <a href="https://github.com/alexisrojas14/Master-Chef-Colombia-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=master-chef-app&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=Master-Chef-Colombia-APP&theme=radical" />
   </a>
 </p>
 
@@ -74,6 +80,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexisrojas14&theme=radical" height="180em"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisrojas14&layout=compact&theme=radical" height="150em"/>
+</p>
+
+---
+
+## 📚 Actualmente aprendiendo
+- [x] Java & Spring Boot  
+- [x] MySQL  
+- [ ] Docker & despliegue en la nube  
+- [ ] Patrones de diseño  
+- [ ] React  
+
+---
+
+## 💡 Soft Skills
+- 🤝 Trabajo en equipo  
+- 🧩 Resolución de problemas  
+- 📈 Aprendizaje constante y adaptabilidad  
+
 ---
 
 ## 🌍 Conéctate conmigo
@@ -83,7 +109,6 @@
   <a href="https://github.com/alexisrojas14"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"></a>
 </p>
 
+---
 
-<p align="center">
-  ✨ *"El aprendizaje constante y la curiosidad son las claves para crecer como desarrollador y como persona."* ✨  
-</p>
+> ✨ *"El aprendizaje constante y la curiosidad son las claves para crecer como desarrollador y como persona."* ✨
