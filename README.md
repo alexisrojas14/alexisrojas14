@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+SQL;Apasionado+por+el+aprendizaje;Buscando+mi+primer+rol+profesional+🚀" />
 </p>
 
-
 ---
 
 ## 🚀 Sobre mí
@@ -52,15 +51,15 @@
 </tr>
 </table>
 
-
 ---
+
 ## 📌 Proyectos Destacados  
 
 <table>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/alexisrojas14/FitNourishXis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=FitNourishXis&theme=dark&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=ff4d58&hide_border=false&border_color=333333" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=FitNourishXis&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
         <br />
         <b>🏋️‍♂️ FitNourishXis</b>
       </a>
@@ -68,7 +67,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/alexisrojas14/Master-Chef-Colombia-APP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=Master-Chef-Colombia-APP&theme=dark&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=00c896&hide_border=false&border_color=333333" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=Master-Chef-Colombia-APP&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
         <br />
         <b>🍳 Master Chef App</b>
       </a>
@@ -77,19 +76,21 @@
   </tr>
 </table>
 
-
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexisrojas14&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=ff4d58&hide_border=false&border_color=333333" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexisrojas14&theme=dark&background=000000&ring=ff4d58&fire=ff4d58&currStreakLabel=ffffff&sideLabels=bbbbbb&currStreakNum=ffffff&sideNums=bbbbbb&dates=777777&hide_border=false&border=333333" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexisrojas14&show_icons=true&theme=dark&bg_color=000000,001a12,003322&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexisrojas14&theme=dark&background=000000,001a12,003322&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=bbbbbb&currStreakNum=ffffff&sideNums=bbbbbb&dates=777777&hide_border=false&border=333333" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisrojas14&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=bbbbbb&hide_border=false&border_color=333333" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisrojas14&layout=compact&theme=dark&bg_color=000000,001a12,003322&title_color=00C896&text_color=bbbbbb&hide_border=false&border_color=333333" height="150em"/>
 </p>
 
+
+---
 
 ## 📚 Actualmente aprendiendo
 - 🔹 Java & Spring Boot  
