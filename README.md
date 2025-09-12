@@ -43,7 +43,6 @@
 
 <h3 align="center">Herramientas & Otros</h3>
 <div align="center">  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="50" /></a>  
 <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" height="50" /></a>  
 </div>
