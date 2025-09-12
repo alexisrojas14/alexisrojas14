@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+SQL;Apasionado+por+el+aprendizaje;Buscando+mi+primer+rol+profesional+🚀" />
 </p>
 
-<p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=alexisrojas14&label=Visitas&color=blue&style=flat)
-</p>
 
 ---
 
@@ -59,7 +56,7 @@
 
 ## 📌 Proyectos Destacados
 
-- 🏋️‍♂️ **[Lexis Manage](https://github.com/alexisrojas14/FitNourishXis)** – Sistema de gestión de gimnasios (usuarios, membresías, pagos).
+- 🏋️‍♂️ **[FitNourishXis](https://github.com/alexisrojas14/FitNourishXis)** – 
 - 🍳 **[Master Chef App](https://github.com/alexisrojas14/Master-Chef-Colombia-APP)** – Aplicación para gestión de recetas y retos culinarios.
 <p align="center">
   <a href="https://github.com/alexisrojas14/FitNourishXis">
