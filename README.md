@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hola, soy Alexis Rojas</h1>
+
 <p align="center">
-  <img src="alexisBanner.png" alt="Banner" width="800"/>
+  <img src="AlexisBannerGithub.gif" alt="Banner" width="800"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+SQL;Apasionado+por+el+aprendizaje;Buscando+mi+primer+rol+profesional+🚀" />
