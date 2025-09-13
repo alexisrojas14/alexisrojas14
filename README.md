@@ -1,9 +1,15 @@
-
 <p align="center">
   <img src="AlexisBannerGithub.gif" alt="Banner" width="800"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+SQL;Apasionado+por+el+aprendizaje;Buscando+mi+primer+rol+profesional+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/alexisrojas14/alexisrojas14/blob/main/HVAlexisSept2025.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Ver%20Hoja%20de%20Vida-%2300C896?style=for-the-badge&logo=github&logoColor=white" alt="Ver Hoja de Vida" />
+  </a>
 </p>
 
 ---
