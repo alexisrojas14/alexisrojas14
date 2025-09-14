@@ -63,21 +63,86 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/alexisrojas14/FitNourishXis">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=FitNourishXis&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
         <br />
-        <b>🏋️‍♂️ FitNourishXis</b>
+        <b>🥗 FitNourishXis - Plataforma de Nutrición y Fitness</b>
       </a>
-      <p>Plataforma para gestión de nutrición y rutinas fitness.</p>
+      <p>Plataforma integral para mejorar alimentación y entrenamiento. Calcula calorías, muestra recetas y sugiere entrenamientos personalizados.</p>
+      <div align="left">
+        
+   <p><b>🏗️ Arquitectura:</b> Flask (Python), MySQL, Firebase Authentication</p>
+        <p><b>🔧 Tecnologías:</b> Python, Flask, MySQL, JavaScript, HTML/CSS</p>
+        <p><b>🌐 APIs:</b> CalorieNinjas, Spoonacular, Edamam, Wger</p>
+        <p><b>⭐ Funcionalidades:</b></p>
+        <ul>
+          <li>Registro manual y con Google</li>
+          <li>Calculadora de calorías personalizada</li>
+          <li>Recetas saludables y sistema de favoritos</li>
+          <li>Comunidad y progresos compartidos</li>
+          <li>Entrenamientos personalizados</li>
+        </ul>
+        <p><b>🎯 Estado:</b> Proyecto Académico en Progreso</p>
+      </div>
     </td>
-    <td align="center" width="50%">
+
+   <td align="center" width="50%" valign="top">
+      <a href="https://github.com/alexisrojas14/LexisMANAGE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=LexisManage&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
+        <br />
+        <b>🏋️ Lexis MANAGE - Sistema de Gestión de Membresías</b>
+      </a>
+      <p>Sistema integral para gimnasios y academias, que administra usuarios, membresías y pagos.</p>
+      <div align="left">
+        <p><b>🏗️ Arquitectura:</b> Cliente-Servidor (Java + Ubuntu Server + MySQL)</p>
+        <p><b>🔧 Tecnologías:</b> Java, NetBeans, MySQL, Swing GUI</p>
+        <p><b>🎨 Paleta:</b> Rojo (#ff4d58), Azul oscuro (#1a2737), Blanco, Gris</p>
+        <p><b>⭐ Funcionalidades:</b></p>
+        <ul>
+          <li>Autenticación segura</li>
+          <li>CRUD de usuarios y membresías</li>
+          <li>Control de acceso y pagos</li>
+          <li>Reportes y estadísticas</li>
+          <li>Gestión de empleados y roles</li>
+          <li>Personalización del establecimiento</li>
+        </ul>
+        <p><b>🗃️ BD:</b> MySQL con 14 tablas (Usuarios, Membresías, Pagos, etc.)</p>
+        <p><b>🎯 Estado:</b> Proyecto Académico Finalizado (Septiembre 2024)</p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/alexisrojas14/Master-Chef-Colombia-APP">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=Master-Chef-Colombia-APP&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
         <br />
-        <b>🍳 Master Chef App</b>
+        <b>👨‍🍳 Master Chef Colombia App</b>
       </a>
-      <p>Aplicación para gestión de recetas y retos culinarios.</p>
+       <p>Aplicación Java inspirada en Master Chef Colombia, desarrollada con MVC y POO.</p>
+      <div align="left">
+        <p><b>🏗️ Arquitectura:</b> MVC (Modelo-Vista-Controlador)</p>
+        <p><b>🔧 Tecnologías:</b> Java, Swing/AWT, MySQL</p>
+        <p><b>🎯 Paradigma:</b> Programación Orientada a Objetos</p>
+        <p><b>⭐ Funcionalidades:</b></p>
+        <ul>
+          <li>Recetas típicas colombianas</li>
+          <li>Gestión de ingredientes y precios</li>
+          <li>Proceso interactivo de cocina</li>
+          <li>Datos de jurados, presentadora y ganadores</li>
+          <li>Persistencia de datos en MySQL</li>
+        </ul>
+      </div>
+    </td>
+
+  <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=Proximo-Proyecto&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
+      <br />
+      <b>🚀 Proyecto Próximo</b>
+    <p>Actualmente en planificación y desarrollo. ¡Pronto estará disponible aquí!</p>
+      <div align="left">
+      </div>
     </td>
   </tr>
 </table>
