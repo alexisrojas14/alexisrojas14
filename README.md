@@ -156,7 +156,8 @@
         </ul>
       </div>
     </td>
-    
+   </tr>
+<tr>
   <td align="center" width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=Proximo-Proyecto&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
       <br />
