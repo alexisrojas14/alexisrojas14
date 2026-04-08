@@ -136,6 +136,27 @@
       </div>
     </td>
 
+<td align="center" width="50%" valign="top">
+      <a href="https://github.com/alexisrojas14/AudityAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=AudityAI&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
+        <br />
+        <b>🛡️ AudityAI - Plataforma GRC con IA</b>
+      </a>
+      <p>Sistema inteligente para la gestión de cumplimiento normativo, automatizando análisis de causa raíz y planes de acción.</p>
+      <div align="left">
+        <p><b>🏗️ Arquitectura:</b> React (Vite) + Tailwind CSS v4</p>
+        <p><b>🔧 Tecnologías:</b> React, OpenAI API (LLMs), Lucide Icons</p>
+        <p><b>🎯 Estado:</b> 🏗️ Proyecto en Desarrollo (Módulo de Hallazgos)</p>
+        <p><b>⭐ Funcionalidades:</b></p>
+        <ul>
+          <li>Análisis de causa raíz potenciado por IA</li>
+          <li>Gestión de normativas (ISO 27001, SOC 2, SOC 3)</li>
+          <li>Dashboard dinámico de indicadores (KPIs)</li>
+          <li>Portal de auditorías externas para clientes</li>
+        </ul>
+      </div>
+    </td>
+    
   <td align="center" width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=Proximo-Proyecto&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
       <br />
