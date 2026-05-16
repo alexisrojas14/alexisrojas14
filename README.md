@@ -3,167 +3,124 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+SQL;Apasionado+por+el+aprendizaje;Buscando+mi+primer+rol+profesional+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Python+%7C+Java+%7C+DevOps;Integraci%C3%B3n+de+IA;Apasionado+por+aprender" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/alexisrojas14/alexisrojas14/blob/main/HVAlexisSept2025.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Ver%20Hoja%20de%20Vida-%2300C896?style=for-the-badge&logo=github&logoColor=white" alt="Ver Hoja de Vida" />
+  <a href="./HV_Alexis_Rojas_Mayo2026.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Curriculum%20Vitae-%2300C896?style=for-the-badge&logo=github&logoColor=white" alt="Ver Hoja de Vida" />
   </a>
 </p>
 
 ---
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-- 🎓 Estudiante de **Tecnología en Desarrollo de Software** (graduación prevista marzo 2026).  
-- 💻 Enfoque principal en **backend con Java, Spring Boot y MySQL**.  
-- 🌱 Aprendiendo **Frontend (HTML, CSS, JavaScript)** y explorando **Flask**.  
-- 🐧 Experiencia en **administración básica de servidores Ubuntu**.  
-- 🔍 En busca de **prácticas o rol junior** para crecer en un entorno profesional.  
+
+## Perfil Profesional
+
+- **Desarrollador Full Stack** enfocado principalmente en el ecosistema **Python y Java**, en búsqueda activa de oportunidades profesionales.
+- Sólida base académica (Tecnología en Desarrollo de Software, finalizando matricula en 2026) combinada con gran capacidad de adaptación y aprendizaje autónomo.
+- Experiencia comprobable en prácticas colaborando en la integración de modelos de lenguaje corporativos e IA (Gemini, LLMs locales, Qdrant).
+- Conocimientos prácticos y resolutivos en contenedores (**Docker**) y administración básica de servidores **Ubuntu**.
 
 ---
 
-## 🛠️ Tech Stack  
+## Experiencia Destacada
 
-<table align="center">
-<tr>
-<td align="top" width="33%">
+**Desarrollador de Software & Soporte TI (Prácticas)** | _DigiSoc_ (Nov 2025 - May 2026)
 
-<h3 align="center">Frontend</h3>
-<div align="center" style="background-color:#000000; padding:15px; border-radius:12px; border:1px solid #333333;">  
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" /></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" /></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+- Participé en el desarrollo e implementación de **MAXI.AI**, un portal de cumplimiento GRC interno.
+- **Stack:** React, Tailwind v4, Python (Flask/Uvicorn), PostgreSQL.
+- Colaboré en la integración de modelos de lenguaje (Gemini 3.1 Flash Lite) y bases de datos vectoriales.
+- Apoyé en tareas de despliegue sobre servidores físicos **Ubuntu** utilizando **Docker Compose y Nginx**.
+- Brindé soporte TI a nivel corporativo, incluyendo asistencia en la migración a **Google Workspace** y soporte de hardware/redes.
 
-</td><td valign="top" width="33%">
+---
 
-<h3 align="center"> Backend</h3>
-<div align="center" style="background-color:#000000; padding:15px; border-radius:12px; border:1px solid #333333;">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" /></a>  
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" /></a>  
-</div>
+## Tech Stack & Herramientas
 
-</td><td valign="top" width="33%">
-
-<h3 align="center"> Herramientas & Otros</h3>
-<div align="center" style="background-color:#000000; padding:15px; border-radius:12px; border:1px solid #333333;">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" /></a>  
-<a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="50" /></a>  
-</div>
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <b>Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" alt="Frontend Icons" /><br><br>
+      <sub>React, Tailwind CSS (v4), JS, HTML/CSS</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <b>Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=java,spring,python,flask" alt="Backend Icons" /><br><br>
+      <sub>Java (Spring Boot), Python (Flask, Gunicorn/Uvicorn)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <b>Bases de Datos</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Icons" />
+      <img src="https://github.com/qdrant.png" width="48" height="48" alt="Qdrant" style="border-radius: 12px; margin-left: 2px;" title="Qdrant (Vectorial)" /><br><br>
+      <sub>MySQL, PostgreSQL, Qdrant (Vectorial)</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <b>DevOps & Infra</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,ubuntu,nginx,git" alt="DevOps and Infra Icons" /><br><br>
+      <sub>Docker / Docker Compose, Ubuntu Linux Server, Nginx Proxy, Git / Gitea, Certificados SSL/TLS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <br>
+      <b>Nube </b><br><br>
+      <img src="https://skillicons.dev/icons?i=gcp" alt="Cloud Icons" /><br><br>
+      <sub>Google Cloud Platform (GCP), Google Workspace</sub>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📌 Proyectos Destacados  
+## Proyectos Destacados
 
 <table>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/alexisrojas14/FitNourishXis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=FitNourishXis&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
-        <br />
-        <b>🥗 FitNourishXis - Plataforma de Nutrición y Fitness</b>
-      </a>
-      <p>Plataforma integral para mejorar alimentación y entrenamiento. Calcula calorías, muestra recetas y sugiere entrenamientos personalizados.</p>
+      <img src="https://img.shields.io/badge/🔒_MAXI.AI-Repositorio_Privado-000000?style=for-the-badge&logo=github&logoColor=00C896&labelColor=111111" style="margin-top: 30px; margin-bottom: 30px;" />
+      <br/><br/>
       <div align="left">
-        
-   <p><b>🏗️ Arquitectura:</b> Flask (Python), MySQL, Firebase Authentication</p>
-        <p><b>🔧 Tecnologías:</b> Python, Flask, MySQL, JavaScript, HTML/CSS</p>
-        <p><b>🌐 APIs:</b> CalorieNinjas, Spoonacular, Edamam, Wger</p>
-        <p><b>⭐ Funcionalidades:</b></p>
-        <ul>
-          <li>Registro manual y con Google</li>
-          <li>Calculadora de calorías personalizada</li>
-          <li>Recetas saludables y sistema de favoritos</li>
-          <li>Comunidad y progresos compartidos</li>
-          <li>Entrenamientos personalizados</li>
-        </ul>
-        <p><b>🎯 Estado:</b> Proyecto Académico en Progreso</p>
+        <p align="center"><b>MAXI.AI (Portal GRC Corporativo)</b></p>
+        <p>Proyecto empresarial cerrado (DigiSoc). Sistema de cumplimiento normativo potenciado con inteligencia artificial.</p>
+        <p><b>Stack:</b> React, Tailwind v4, Python (Flask/Uvicorn), PostgreSQL, Gemini 3.1, Qdrant, Docker.</p>
       </div>
     </td>
-
-   <td align="center" width="50%" valign="top">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/alexisrojas14/LexisMANAGE">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=LexisManage&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
-        <br />
-        <b>🏋️ Lexis MANAGE - Sistema de Gestión de Membresías</b>
       </a>
-      <p>Sistema integral para gimnasios y academias, que administra usuarios, membresías y pagos.</p>
+      <br/><br/>
       <div align="left">
-        <p><b>🏗️ Arquitectura:</b> Cliente-Servidor (Java + Ubuntu Server + MySQL)</p>
-        <p><b>🔧 Tecnologías:</b> Java, NetBeans, MySQL, Swing GUI</p>
-        <p><b>🎨 Paleta:</b> Rojo (#ff4d58), Azul oscuro (#1a2737), Blanco, Gris</p>
-        <p><b>⭐ Funcionalidades:</b></p>
-        <ul>
-          <li>Autenticación segura</li>
-          <li>CRUD de usuarios y membresías</li>
-          <li>Control de acceso y pagos</li>
-          <li>Reportes y estadísticas</li>
-          <li>Gestión de empleados y roles</li>
-          <li>Personalización del establecimiento</li>
-        </ul>
-        <p><b>🗃️ BD:</b> MySQL con 14 tablas (Usuarios, Membresías, Pagos, etc.)</p>
-        <p><b>🎯 Estado:</b> Proyecto Académico Finalizado (Septiembre 2024)</p>
+        <p align="center"><b>Sistema de Gestión de Membresías</b></p>
+        <p>Software cliente-servidor para gimnasios. Autenticación, CRUD, pagos y reportes.</p>
+        <p><b>Stack:</b> Java, Swing, MySQL, Server Ubuntu</p>
       </div>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/alexisrojas14/Master-Chef-Colombia-APP">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=Master-Chef-Colombia-APP&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
-        <br />
-        <b>👨‍🍳 Master Chef Colombia App</b>
       </a>
-       <p>Aplicación Java inspirada en Master Chef Colombia, desarrollada con MVC y POO.</p>
+      <br/><br/>
       <div align="left">
-        <p><b>🏗️ Arquitectura:</b> MVC (Modelo-Vista-Controlador)</p>
-        <p><b>🔧 Tecnologías:</b> Java, Swing/AWT, MySQL</p>
-        <p><b>🎯 Paradigma:</b> Programación Orientada a Objetos</p>
-        <p><b>⭐ Funcionalidades:</b></p>
-        <ul>
-          <li>Recetas típicas colombianas</li>
-          <li>Gestión de ingredientes y precios</li>
-          <li>Proceso interactivo de cocina</li>
-          <li>Datos de jurados, presentadora y ganadores</li>
-          <li>Persistencia de datos en MySQL</li>
-        </ul>
+        <p align="center"><b>Master Chef App</b></p>
+        <p>Aplicación basada en MVC y POO para gestionar recetas, ingredientes e interacción.</p>
+        <p><b>Stack:</b> Java, Swing, MySQL</p>
       </div>
     </td>
-
-<td align="center" width="50%" valign="top">
-      <a href="https://github.com/alexisrojas14/AudityAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=AudityAI&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
-        <br />
-        <b>🛡️ AudityAI - Plataforma GRC con IA</b>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/alexisrojas14/FitNourishXis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=FitNourishXis&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
       </a>
-      <p>Sistema inteligente para la gestión de cumplimiento normativo, automatizando análisis de causa raíz y planes de acción.</p>
+      <br/><br/>
       <div align="left">
-        <p><b>🏗️ Arquitectura:</b> React (Vite) + Tailwind CSS v4</p>
-        <p><b>🔧 Tecnologías:</b> React, OpenAI API (LLMs), Lucide Icons</p>
-        <p><b>🎯 Estado:</b> 🏗️ Proyecto en Desarrollo (Módulo de Hallazgos)</p>
-        <p><b>⭐ Funcionalidades:</b></p>
-        <ul>
-          <li>Análisis de causa raíz potenciado por IA</li>
-          <li>Gestión de normativas (ISO 27001, SOC 2, SOC 3)</li>
-          <li>Dashboard dinámico de indicadores (KPIs)</li>
-          <li>Portal de auditorías externas para clientes</li>
-        </ul>
-      </div>
-    </td>
-   </tr>
-<tr>
-  <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexisrojas14&repo=Proximo-Proyecto&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" />
-      <br />
-      <b>🚀 Proyecto Próximo</b>
-    <p>Actualmente en planificación y desarrollo. ¡Pronto estará disponible aquí!</p>
-      <div align="left">
+        <p align="center"><b>FitNourishXis</b></p>
+        <p>Plataforma para mejorar la alimentación, con cálculo de calorías y sugerencias.</p>
+        <p><b>Stack:</b> Python, Flask, MySQL, JavaScript</p>
       </div>
     </td>
   </tr>
@@ -171,43 +128,41 @@
 
 ---
 
-## 📊 GitHub Stats
+## Analíticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexisrojas14&show_icons=true&theme=dark&bg_color=000000,001a12,003322&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=false&border_color=333333" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexisrojas14&theme=dark&background=000000,001a12,003322&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=bbbbbb&currStreakNum=ffffff&sideNums=bbbbbb&dates=777777&hide_border=false&border=333333" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexisrojas14&show_icons=true&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&icon_color=00C896&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisrojas14&layout=compact&theme=dark&bg_color=000000&title_color=00C896&text_color=bbbbbb&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisrojas14&layout=compact&theme=dark&bg_color=000000,001a12,003322&title_color=00C896&text_color=bbbbbb&hide_border=false&border_color=333333" height="150em"/>
-</p>
-
-
----
-
-## 📚 Actualmente aprendiendo
-- 🔹 Java & Spring Boot  
-- 🔹 MySQL  
-- 🔸 Docker & despliegue en la nube  
-- 🔸 Patrones de diseño  
-- 🔸 React  
-
----
-
-## 💡 Soft Skills
-- 🤝 Trabajo en equipo  
-- 🧩 Resolución de problemas  
-- 📈 Aprendizaje constante y adaptabilidad  
-
----
-
-## 🌍 Conéctate conmigo
-<p align="center">
-  <a href="mailto:alexis.rojas.soft@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"></a>
-  <a href="https://linkedin.com/in/alexis-rojas-b72319303"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
-  <a href="https://github.com/alexisrojas14"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexisrojas14&bg_color=000000&color=00C896&line=00C896&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-> ✨ *"El aprendizaje constante y la curiosidad son las claves para crecer como desarrollador y como persona."* ✨
+## Actualmente aprendiendo e investigando
+
+- Optimización avanzada de arquitecturas de recuperación de información (RAG).
+- Automatización de despliegues continuos mediante metodologías DevOps avanzadas.
+- Orquestación de infraestructuras complejas y balanceo de carga.
+
+---
+
+## Contacto
+
+<p align="center">
+  <a href="https://linkedin.com/in/alexis-rojas-b72319303" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alexis.rojas.soft@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/alexisrojas14" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"Construyendo software escalable y explorando el potencial de la Inteligencia Artificial para resolver problemas del mundo real"</i></p>
