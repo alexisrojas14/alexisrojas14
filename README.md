@@ -155,7 +155,7 @@
   <a href="https://linkedin.com/in/alexis-rojas-b72319303" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:alexis.rojas.soft@gmail.com?subject=Oportunidad%20Laboral">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alexis.rojas.soft@gmail.com&su=Oportunidad%20Laboral" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://github.com/alexisrojas14" target="_blank">
