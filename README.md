@@ -163,6 +163,10 @@
   </a>
 </p>
 
+<p align="center">
+   <b><a href="https://mail.google.com/mail/?view=cm&fs=1&to=alexis.rojas.soft@gmail.com&su=Oportunidad%20Laboral" target="_blank" style="text-decoration: none; color: inherit;">alexis.rojas.soft@gmail.com</a></b>
+</p>
+
 ---
 
 <p align="center"><i>"Construyendo software escalable y explorando el potencial de la Inteligencia Artificial para resolver problemas del mundo real"</i></p>
