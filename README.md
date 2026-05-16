@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="./HV_Alexis_Rojas_Mayo2026.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/alexisrojas14/alexisrojas14/main/HV_Alexis_Rojas_Mayo2026.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Curriculum%20Vitae-%2300C896?style=for-the-badge&logo=github&logoColor=white" alt="Ver Hoja de Vida" />
   </a>
 </p>
